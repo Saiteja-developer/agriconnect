@@ -41,7 +41,7 @@ Tech Stack
 Frontend: Web-based interface (compatible with Chrome v90+, Firefox v88+)
 Backend: Node.js (version 16 or higher)
 Database: MongoDB
-Additional tools: Express.js, Python 3.8 or above, OpenWeather API
+Additional tools: Express.js, OpenWeather API
 
 System Requirements  
 -------------------
